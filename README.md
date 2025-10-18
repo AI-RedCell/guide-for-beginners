@@ -111,7 +111,7 @@ Chained conditioning – Step-by-step sequences that gradually shift responses t
 
 ## 🔗 Resources & References
 
-r/ChatGPTJailbreak Wiki – Community-driven beginner to advanced guides.
+[r/ChatGPTJailbreak Wiki](https://reddit.com/r/ChatGPTJailbreak/) – Community-driven beginner to advanced guides.
 
 AI RedCell Beginner Playbook – Safe templates and examples for hands-on learning.
 
