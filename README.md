@@ -1,7 +1,7 @@
 
 # 🧩 AI Jailbreaking & Ethical AI — Beginner’s Guide
 
-👋 Welcome!
+## 👋 Welcome!
 
 Hello and welcome! I’m Shehan Nilukshan, the founder of AI RedCell. This guide is designed for anyone curious about how AI models like ChatGPT, Gemini, Claude, and other large language models behave, how researchers explore their limitations, and how to safely test AI systems.
 
@@ -10,7 +10,7 @@ Hello and welcome! I’m Shehan Nilukshan, the founder of AI RedCell. This guide
 
 ---
 
-🤔 What is AI Jailbreaking?
+## 🤔 What is AI Jailbreaking?
 
 AI jailbreaking refers to the process of creating prompts that trick AI models into producing outputs they normally wouldn’t because of built-in safeguards. Think of it as finding hidden doors in a massive AI maze that the model usually keeps locked.
 
@@ -34,7 +34,7 @@ Some common techniques used in jailbreaking include:
 
 ---
 
-⚖ Why Ethical Jailbreaking Matters
+## ⚖ Why Ethical Jailbreaking Matters
 
 Jailbreaking isn’t about doing “bad stuff.” It’s about learning, testing, and defending AI systems:
 
@@ -52,7 +52,7 @@ Ethical researchers help make AI systems safer for everyone by identifying gaps 
 
 ---
 
-🧭 Getting Started: Beginner Steps
+## 🧭 Getting Started: Beginner Steps
 
 If you’re new to AI jailbreaking, follow these steps:
 
@@ -75,7 +75,7 @@ If you’re new to AI jailbreaking, follow these steps:
 
 ---
 
-🌟 Key Concepts for Beginners
+## 🌟 Key Concepts for Beginners
 
 Here are some crucial concepts you need to know:
 
@@ -93,7 +93,7 @@ Here are some crucial concepts you need to know:
 
 ---
 
-🏷 Types of Jailbreaks
+## 🏷 Types of Jailbreaks
 
 Single-shot prompts – Compact prompts for quick tests, easy to copy and paste.
 
@@ -109,7 +109,7 @@ Chained conditioning – Step-by-step sequences that gradually shift responses t
 
 ---
 
-🔗 Resources & References
+## 🔗 Resources & References
 
 r/ChatGPTJailbreak Wiki – Community-driven beginner to advanced guides.
 
@@ -121,7 +121,7 @@ AI RedCell Beginner Playbook – Safe templates and examples for hands-on learni
 
 ---
 
-🌐 Final Thoughts
+## 🌐 Final Thoughts
 
 AI jailbreaking isn’t about breaking rules — it’s about curiosity, creativity, and responsibility. By learning how AI behaves:
 
@@ -134,7 +134,7 @@ Contribute to a community that protects AI users and systems.
 
 
 
-🚀 Quick Tips for Beginners:
+### 🚀 Quick Tips for Beginners:
 
 Start with small, safe experiments.
 
