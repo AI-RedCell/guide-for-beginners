@@ -1,5 +1,5 @@
 
-🧩 #AI Jailbreaking & Ethical AI — Beginner’s Guide
+🧩 # AI Jailbreaking & Ethical AI — Beginner’s Guide
 
 👋 Welcome!
 
